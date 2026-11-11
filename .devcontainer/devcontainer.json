@@ -1,0 +1,7 @@
+{
+  "name": "My Ubuntu Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "root"
+}
